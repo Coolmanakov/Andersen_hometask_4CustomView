@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CloakView">
+
+        <attr name="second_line_color" format="color" />
+        <attr name="minute_line_color" format="color" />
+        <attr name="hour_line_color" format="color" />
+
+    </declare-styleable>
+</resources>
